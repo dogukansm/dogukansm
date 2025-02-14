@@ -1,5 +1,3 @@
-<center><a href="#"><img src="https://i.hizliresim.com/s2dg9gg.png" style="height:50vh;display:block;margin:auto;width:auto"/></a></center>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Doğukan</h1>
 <h3 align="center">I'm a full stack developer with a passion for the back-end</h3>
 
